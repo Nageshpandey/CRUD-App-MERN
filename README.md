@@ -6,7 +6,7 @@ A simple records system using MongoDB, Express.js, React.js, and Node.js with re
 
 Fork, then download or clone the repo.
 ```bash
-git clone https://github.com/<your-user-name>/mern-crud.git
+git clone https://github.com/<your-user-name>CRUD-App-MERN.git
 ```
 
 
@@ -15,7 +15,7 @@ git clone https://github.com/<your-user-name>/mern-crud.git
 The *config* folder contains a file named *db.js*. Before running locally, change the value of db as seen in the code below.
 ```js
 module.exports = {
-  db: 'mongodb://localhost/mern-crud'
+  db: 'mongodb://localhost/CRUD-App-MERN'
 };
 ```
 
